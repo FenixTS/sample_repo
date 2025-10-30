@@ -1,0 +1,11 @@
+{
+    "users": [
+      { "id": 1, "name": "Alice", "age": 25 },
+      { "id": 2, "name": "Bob", "age": 30 }
+    ],
+    "products": [
+      { "id": 1, "name": "Laptop", "price": 1200 },
+      { "id": 2, "name": "Phone", "price": 700 }
+    ]
+  }
+  
